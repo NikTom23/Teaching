@@ -9,4 +9,20 @@ int main()
         //    }
       std::cout << n[0] <<", " << n[3] <<", " << n[5] << std::endl;
       std::cout << n[1] << ", " << n[2] << ", " << n[4] << std::endl;
+
+    // #include <iostream> 
+
+// using std::cout; 
+// using std::cin; 
+
+// int main() 
+// { 
+//       const int N = 10; 
+//       int K[N]; 
+//       cout << "Введите элементы массива: \n"; 
+//       for(int i = 0; i < N; i++) cin >> K[ i ]; 
+//       for(int i = 0; i < N; i++) 
+//                 cout << (K[ i ] < 0? K[ i ] : ""); 
+//       return 0; 
+// } 
 }
